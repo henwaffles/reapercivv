@@ -4,7 +4,7 @@ import React from 'react';
 
 function App() {
   return (
-    <Stack>
+    <Stack background="black">
       <VStack p={5}>
         <Flex w="100%">
          <Heading ml="8" size="lg" fontWeight='semibold' color="#f7f7f7">Reaper <br></br> Civilization</Heading>
